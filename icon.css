@@ -8,7 +8,7 @@
     width: var(--icon-size);
     height: var(--icon-size);
     mask-image: url('https://cdn.jsdelivr.net/gh/FumblePin/BumbleBird/Icon/pointed-arrow-down.svg');
-    -webkit-mask-image: url('https://cdn.jsdelivr.net/gh/FumblePin/BumbleBird/Icon/pointed-arrow-down.svg');
+    -webkit-mask-image: url('https://cdn.jsdelivr.net/gh/Website-List/gitme/blob/1e6b2c84a2471e3b11fc374b694d7add4b0f4c4c/icon/pointed-arrow-down.svg');
     background-color: var(--icon-color);
 }
 .pointed-arrow-down-fill {
@@ -16,6 +16,8 @@
     width: var(--icon-size);
     height: var(--icon-size);
     mask-image: url('https://cdn.jsdelivr.net/gh/FumblePin/BumbleBird/Icon/pointed-arrow-down.svg');
-    -webkit-mask-image: url('https://cdn.jsdelivr.net/gh/FumblePin/BumbleBird/Icon/pointed-arrow-down.svg');
+    -webkit-mask-image: url('https://cdn.jsdelivr.net/gh/Website-List/gitme/blob/1e6b2c84a2471e3b11fc374b694d7add4b0f4c4c/icon/pointed-arrow-down-fill.svg');
     background-color: var(--icon-color);
 }
+
+https://github.com/Website-List/gitme/blob/1e6b2c84a2471e3b11fc374b694d7add4b0f4c4c/icon/pointed-arrow-down-fill.svg
